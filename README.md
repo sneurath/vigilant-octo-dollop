@@ -1,2 +1,2 @@
-# sneurath.vigilant-octo-dollop.io
+# vigilant-octo-dollop
 Off Platform Tea Cozy
